@@ -22,7 +22,7 @@ Software engineer with hands-on experience in software development and research,
 ### 💼 Recent experience
 
 - **Software Engineer Intern** @ Altice Labs
-- **Junior Software Engineer** @ Universal Linker, Lda
+- **Software Engineer Intern** @ Universal Linker, Lda
 - **Research Intern** @ INESC TEC — co-authored *["Acceleration of C/C++ Kernels and ONNX Models on CGRAs"](https://ieeexplore.ieee.org/document/11281807)* (DCIS 2025)
 - **Technical Intern** @ Jumpseller
 
@@ -35,9 +35,12 @@ Software engineer with hands-on experience in software development and research,
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Quarkus](https://img.shields.io/badge/-Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
